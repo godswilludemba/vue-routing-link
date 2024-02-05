@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "chevron",
+    "description": "this iss the most expensive car on earth",
+    "price": 1500000,
+    "year": 2025
+  },
+  {
+    "id": 2,
+    "name": "Innosson",
+    "description": "this iss the most expensive car on earth",
+    "price": 65000,
+    "year": 2020
+  },
+  {
+    "id": 3,
+    "name": "Nissan",
+    "description": "this iss the most expensive car on earth",
+    "price": 900000,
+    "year": 2019
+  },
+  {
+    "id": 4,
+    "name": "honda",
+    "description": "this iss the most expensive car on earth",
+    "price": 215056000,
+    "year": 2000
+  },
+  {
+    "id": 5,
+    "name": "toyota",
+    "description": " yoikckckdckdc  kckkdckdck  ckdkcdkcdkc",
+    "price": 100000,
+    "year": 2012
+  }
+]
