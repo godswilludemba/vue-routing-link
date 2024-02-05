@@ -15,7 +15,7 @@ const showContact = () => {
 </script>
 
 <template>
-  <div>
+  <div v-if="car">
     <h1>Cars View</h1>
     <p>{{ car.name }}</p>
     <p>{{ car.description }}</p>
@@ -26,4 +26,5 @@ const showContact = () => {
 
     <RouterView />
   </div>
+  <div v-else><p>Car Not Found Please</p></div>
 </template>
